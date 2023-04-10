@@ -1,0 +1,15 @@
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\bin\Debug\net6.0\jurnalmodul8_1302213109.exe
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\bin\Debug\net6.0\jurnalmodul8_1302213109.deps.json
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\bin\Debug\net6.0\jurnalmodul8_1302213109.runtimeconfig.json
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\bin\Debug\net6.0\jurnalmodul8_1302213109.dll
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\bin\Debug\net6.0\jurnalmodul8_1302213109.pdb
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\jurnalmodul8_1302213109.csproj.AssemblyReference.cache
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\jurnalmodul8_1302213109.GeneratedMSBuildEditorConfig.editorconfig
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\jurnalmodul8_1302213109.AssemblyInfoInputs.cache
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\jurnalmodul8_1302213109.AssemblyInfo.cs
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\jurnalmodul8_1302213109.csproj.CoreCompileInputs.cache
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\jurnalmodul8_1302213109.dll
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\refint\jurnalmodul8_1302213109.dll
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\jurnalmodul8_1302213109.pdb
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\jurnalmodul8_1302213109.genruntimeconfig.cache
+F:\a. KULIAH\a. Semester 4\KPL\Praktikum\Modul 8\jurnalmodul8_1302213109\jurnalmodul8_1302213109\obj\Debug\net6.0\ref\jurnalmodul8_1302213109.dll
